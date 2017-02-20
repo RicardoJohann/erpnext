@@ -267,8 +267,8 @@ def update_fields_gst_adjustments_si():
 
 			debit = 0.0
 			debit_in_account_currency = 0.0
-			# credit = 0.0
-			# credit_in_account_currency = 0.0
+			#credit = 0.0
+			#credit_in_account_currency = 0.0
 			debit_gle = 0.0
 			debit_in_account_currency_gle = 0.0
 			credit_gle = 0.0
